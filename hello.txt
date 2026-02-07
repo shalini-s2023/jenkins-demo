@@ -1,1 +1,5 @@
-
+Jenkins is the leading open-source automation server designed to implement CI/CD (Continuous Integration/Continuous Deployment) pipelines,
+enabling developers to build, test, and deploy software efficiently. 
+Written in Java, it features over 1,800 plugins, allowing it to integrate with tools like Git, 
+Docker, and Kubernetes. It accelerates development by automating repetitive tasks, supporting distributed, 
+scalable, and parallel builds across various platform
